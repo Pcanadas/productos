@@ -35,7 +35,7 @@ Below you will find what I use to develop and run the project
 
 ## Installation
 I use Virtualenv to develop this project, so I recommend you create a virtual environment virtualenv venv and install the requirements <code>pip install -r requirements.txt</code><br>
-Then, get a local copy of the project directory by cloning "tasks" from github. <br>
+Then, get a local copy of the project directory by cloning "productos" from github. <br>
 Lastly, run <code>python app.py</code>
 
 ## Authors
