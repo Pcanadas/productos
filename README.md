@@ -38,8 +38,8 @@ I use Virtualenv to develop this project, so I recommend you create a virtual en
 Then, get a local copy of the project directory by cloning "tasks" from github. <br>
 Lastly, run <code>python main.py</code>
 
-Authors
+## Authors
 **Patricia Cañadas** - *Initial Work* - [pcanadas](https://github.com/pcanadas)
 
-License
+## License
 This project is licensed under the License GPL-3.0 license - see the LICENSE.md file for details
