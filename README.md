@@ -42,4 +42,4 @@ Lastly, run <code>python app.py</code>
 **Patricia Cañadas** - *Initial Work* - [pcanadas](https://github.com/pcanadas)
 
 ## License
-This project is licensed under the License GPL-3.0 license - see the LICENSE.md file for details
+This project is licensed under the License GPL-3.0 license - see the LICENSE.md file for details.
